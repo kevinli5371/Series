@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  background: white;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.landing {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid green;
+}
